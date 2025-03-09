@@ -16,13 +16,12 @@ I'm a **Software Engineer** and **Junior Flutter Developer** with a strong passi
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/molham-al-sheikh-ali)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/molham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/molham-al-sheikh-ali-684982268)
 [![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=github)](https://molham-portfolio.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/molham_dev)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/molham)
-[![Instagram](https://img.shields.io/badge/Instagram-ef3e42?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molham)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molham@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/MolhamSheikh)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/molhamslsh.alshihali)
+[![Instagram](https://img.shields.io/badge/Instagram-ef3e42?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molhamsheikh/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](molhamsa49@gmail.com)
 
 
 ## 🛠️ Top Repositories
