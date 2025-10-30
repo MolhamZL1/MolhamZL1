@@ -1,6 +1,6 @@
 # Hi there, I'm Molham Al-Sheikh Ali 👨‍💻
 
-I'm a **Software Engineer** and **Junior Flutter Developer** with a strong passion for **mobile development** and creating efficient software solutions. I love learning new technologies and building innovative applications. Currently, I'm focusing on Flutter development and refining my skills.
+I'm a **Software Engineer** and *Mobile Developer** with a strong passion for **mobile development** and creating efficient software solutions. I love learning new technologies and building innovative applications. Currently, I'm focusing on Flutter development and refining my skills.
 
 ## 🔧 Technologies & Tools
 
@@ -23,11 +23,3 @@ I'm a **Software Engineer** and **Junior Flutter Developer** with a strong passi
 [![Instagram](https://img.shields.io/badge/Instagram-ef3e42?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/molhamsheikh/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](molhamsa49@gmail.com)
 
-
-## 🛠️ Top Repositories
-
-### [[Project 1](https://github.com/molham/project1)](https://github.com/MolhamZL1/tourism_app)
-It is a dashboard for tourism app built using flutter.
-
-### [[Project 2](https://github.com/molham/project2)](https://github.com/MolhamZL1/rosemary1)
-It is an ecommerce app for selling medecines.
