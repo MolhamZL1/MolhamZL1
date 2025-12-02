@@ -10,7 +10,7 @@ Currently, I’m focusing on advancing my skills in **Flutter** and crafting mod
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,visualstudio,git,github,gitlab,postman,figma,sqlite,mysql,java,cpp,linux,docker,laravel"  width="2000" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,visualstudio,git,github,gitlab,postman,figma,sqlite,mysql,java,cpp,linux,docker,laravel"/>
 </p>
 
 ## 💼 Portfolio & Projects
